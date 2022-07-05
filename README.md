@@ -47,7 +47,7 @@
 * `CUSTOM_FILE_CAPTION` : A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding
 * `CACHE_TIME` : The maximum amount of time in seconds that the result of the inline query may be cached on the server
 * `IMDB` : Imdb, the view of information when making True/False
-* `SINGLE_BUTTON` : choose b/w single or double buttons https://github.com/EvamariaTG/EvaMaria/issues/22
+* `SINGLE_BUTTON` : choose b/w single or double buttons
 * `P_TTI_SHOW_OFF` : Customize Result Buttons to Callback or Url by (True = url / False = callback)
 
 
