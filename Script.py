@@ -4,9 +4,9 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/whitedeviljoypow>𝙼𝚛.JOY POW</a>
-✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/whitedeviljoypow>WHITE DEVIL</a>
-✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/MN_BOTZ_UPDATES>𝙼𝙽 𝙱𝙾𝚃𝚉</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>
+✯ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/tamilhb>𝚃𝙰𝙼𝙸𝙻𝙷𝙱</a>
+✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/+AaJO1Ej6T441YjQ1>𝙼𝚂 𝙱𝙾𝚃𝚉</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
