@@ -56,7 +56,7 @@ async def start(client, message):
         await asyncio.sleep(1)
         await m.delete()        
         await message.reply_photo(
-            photo=random.choice(https://telegra.ph/file/eea769e2a03eca2c24b1a.jpg),
+            photo=random.choice(PICS),
             caption=START_MESSAGE.format(user=message.from_user.mention, bot=temp.B_LINK),
             reply_markup=reply_markup,
             parse_mode='html'
@@ -101,7 +101,7 @@ async def start(client, message):
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
-            photo=random.choice(https://telegra.ph/file/eea769e2a03eca2c24b1a.jpg),
+            photo=random.choice(PICS),
             caption=START_MESSAGE.format(user=message.from_user.mention, bot=temp.B_LINK),
             reply_markup=reply_markup,
             parse_mode='html'
